@@ -1,5 +1,3 @@
-# MERN-BUS-APP
-## MFRP (My First Real Project) assigned by Cognizant during Internship
 
 A Bus ticket booking application made using MERN Stack (MongoDB, Express js, React js, Node js)
 
@@ -38,10 +36,6 @@ The Bus ticket application is composed of the following Features:
 * This version does not support dynamic seat data being stored from cloud.
 
 
-This project also demonstrates:
-
-* a typcial React project layout structure
-
 **Screenshots:**
 Landing Page:
 
@@ -70,7 +64,6 @@ Payment & Confirmation Page:
 * [React](https://reactjs.org/) - A javascript library for building user interfaces
 * [Babel](https://babeljs.io/) - A transpiler for javascript
 * [Webpack](https://webpack.js.org/) - A module bundler
-* [SCSS](http://sass-lang.com/) - A css metalanguage
 * [Bootstrap 4](https://getbootstrap.com/) - Bootstrap is an open source toolkit for developing with HTML, CSS, and JS
 * [Axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 * [Express js](http://expressjs.com/) - Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
